@@ -1,4 +1,4 @@
-![banner](https://github.com/cyber-smurfs/.github/blob/main/profile/Banner.png)
+![banner](https://github.com/cyber-smurfs/.github/blob/main/profile/banner_CM.png)
 
 
 <!--
