@@ -1,4 +1,4 @@
-<img src="https://github.com/cyber-smurfs/.github/blob/main/profile/banner_CyberSmurfs.png"  width="150%" height="40%">
+![banner](https://github.com/cyber-smurfs/.github/blob/main/profile/Banner.png)
 
 
 <!--
