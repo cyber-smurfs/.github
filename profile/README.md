@@ -55,18 +55,18 @@ Marine veteran located in Florida. Has a B.A. in computer science with previous 
 </details>
 
 
-### PM tools used <img width="50" src="https://media4.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif"/>
+## PM tools used <img width="50" src="https://media4.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif"/>
 [![Trello Board](https://img.shields.io/badge/Our%20Trello%20Board-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/b/x76ADRAC/project-management)
 
-### Repos <img width="45" src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/>
+## Repos <img width="45" src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/>
 [![badge](https://img.shields.io/badge/Documentations%20Repo-1338BE?style=for-the-badge)](https://github.com/Cyber-Fortress-Technologies/Project-Docs)
 [![Button](https://img.shields.io/badge/Standard%20Procedures%20Repo-1338BE?style=for-the-badge)](https://github.com/Cyber-Fortress-Technologies/SOPs)
 
-### Slideshow presentation and presentation video <img width="50" src="https://media0.giphy.com/media/NSooDzvyow8sO7za0c/giphy.gif"/>
+## Slideshow presentation and presentation video <img width="50" src="https://media0.giphy.com/media/NSooDzvyow8sO7za0c/giphy.gif"/>
 [![badge](https://img.shields.io/badge/Slideshow%20Presentation-1338BE?style=for-the-badge)](https://github.com/Cyber-Fortress-Technologies/Project-Docs)
 [![Button](https://img.shields.io/badge/Presentation%20Video%20Recording-1338BE?style=for-the-badge)](https://github.com/Cyber-Fortress-Technologies/SOPs)
 
-### Topology and other images <img width="50" src="https://media2.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif"/>
+## Topology and other images <img width="50" src="https://media2.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif"/>
 <img width="500" src="https://github.com/cyber-smurfs/Documents/blob/main/401%20final%20-%20Cyber%20Smurfs%20topology.jpg"/>
 
 
