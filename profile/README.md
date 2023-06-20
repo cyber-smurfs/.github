@@ -10,82 +10,47 @@
 
 # The team <img img width="100" src="https://media0.giphy.com/media/OrDMyHY3lmvPLxBcMs/giphy.gif"/>
 <details>
-    <summary><b> About NAME :zap: </b></summary><br/>
-  <tbody>
-        <tr>
-            <td><a href="https://github.com/spencymitch">
-            <img height="50" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
-            </a></td>
-            <td><a href="https://www.linkedin.com/in/spencymitch/">
-            <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-            </a></td>
-        </tr>
-    </tbody><br/>
-</table>
+    <summary><b> About NAME <a href="https://github.com">
+            <img height="30" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+            </a>  <a href="https://www.linkedin.com/">
+            <img height="30" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+            </a> </b></summary><br/>
 TEXT. TEXT. TEXT. 
 </details>
 
 <details>
-    <summary><b> About Rob :zap: </b></summary><br/>
-  <tbody>
-        <tr>
-            <td><a href="https://github.com/RobG-11">
-            <img height="50" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
-            </a></td>
-            <td><a href="https://www.linkedin.com/in/robertgregor11/">
-            <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-            </a></td>
-        </tr>
-    </tbody><br/>
-</table>
+    <summary><b> About Rob <a href="https://github.com">
+            <img height="30" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+            </a>  <a href="https://www.linkedin.com/">
+            <img height="30" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+            </a> </b></summary><br/>
 Previously employed as a DTRA DoD Red Team Liaison. Chose cybersecurity to challenge myself. Pursuing a SOC Analyst position.
 </details>
 
 <details>
-    <summary><b> About NAME :zap: </b></summary><br/>
-  <tbody>
-        <tr>
-            <td><a href="https://github.com/NicholasLoiacono">
-            <img height="50" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
-            </a></td>
-            <td><a href="https://www.linkedin.com/in/loiaconon/">
-            <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-            </a></td>
-        </tr>
-    </tbody><br/>
-</table>
+    <summary><b> About NAME <a href="https://github.com">
+            <img height="30" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+            </a>  <a href="https://www.linkedin.com/">
+            <img height="30" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+            </a> </b></summary><br/>
 TEXT. TEXT. TEXT. 
 </details>
 
 <details>
-    <summary><b> About NAME :zap: </b></summary><br/>
-  <tbody>
-        <tr>
-            <td><a href="https://github.com/Sfergy3">
-            <img height="50" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
-            </a></td>
-            <td><a href="https://www.linkedin.com/in/slfiii/">
-            <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-            </a></td>
-        </tr>
-    </tbody><br/>
-</table>
+    <summary><b> About NAME <a href="https://github.com">
+            <img height="30" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+            </a>  <a href="https://www.linkedin.com/">
+            <img height="30" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+            </a> </b></summary><br/>
 TEXT. TEXT. TEXT. 
 </details>
 
 <details>
-    <summary><b> About Connie :zap: </b></summary><br/>
-  <tbody>
-        <tr>
-            <td><a href="https://github.com/connieuribe/">
-            <img height="50" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
-            </a></td>
-            <td><a href="https://www.linkedin.com/in/connieuribe/">
-            <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-            </a></td>
-        </tr>
-    </tbody><br/>
-</table>
+    <summary><b> About Connie <a href="https://github.com">
+            <img height="30" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+            </a>  <a href="https://www.linkedin.com/">
+            <img height="30" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+            </a> </b></summary><br/>
 Marine veteran located in Florida. Has a B.A. in computer science with previous programming experience. Enjoys being outdoors and likes to garden. 
 </details>
 
@@ -102,7 +67,7 @@ Marine veteran located in Florida. Has a B.A. in computer science with previous 
 [![Button](https://img.shields.io/badge/Presentation%20Video%20Recording-1338BE?style=for-the-badge)](https://github.com/Cyber-Fortress-Technologies/SOPs)
 
 ### Topology and other images <img width="50" src="https://media2.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif"/>
-![Topology]()
+<img width="500" src="https://github.com/cyber-smurfs/Documents/blob/main/401%20final%20-%20Cyber%20Smurfs%20topology.jpg"/>
 
 
 
