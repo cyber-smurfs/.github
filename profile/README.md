@@ -118,8 +118,7 @@ Marine veteran located in Florida. Has a B.A. in computer science with previous 
 
 
 
-
-
+<img img width="1000" src="https://github.com/cyber-smurfs/.github/blob/main/profile/waves.svg"/>
 
 <!--
 ![b](https://i.pinimg.com/736x/fe/73/35/fe7335584fbcec8898345661ce8e0d2e--search.jpg)
