@@ -6,13 +6,12 @@
 
 
 
-# Description of our project <img width="100" src="https://media4.giphy.com/media/2i7jspnRBYgg6v4Oki/giphy.gif">
+# Description of our project <img width="100" src="https://media0.giphy.com/media/RDZo7znAdn2u7sAcWH/giphy.gif">
 > ＯＵＲ　ＣＯＭＰＡＮＹ：
 
 > ＯＵＲ　ＳＣＥＮＡＲＩＯ：
 
 > ＯＵＲ　ＳＯＬＵＴＩＯＮ:
-
 
 
 # The team <img img width="150" src="https://media0.giphy.com/media/OrDMyHY3lmvPLxBcMs/giphy.gif"/>
