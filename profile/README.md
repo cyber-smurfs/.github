@@ -8,11 +8,11 @@
 
 
 # Description of our project :fire:
-> ＯＵＲ　ＣＯＭＰＡＮＹ：Cyber Fortress Technologies is a cybersecurity company specializing in providing comprehensive solutions for improving the security and protection of cloud infrastructure. Cyber Fortress Technologies is a highly skilled and experienced cybersecurity company that offers comprehensive solutions to protect cloud infrastructure. Cyber Security focused on robust IAM implementation, VPC segmentation, server hardening, data encryption, and real-time monitoring, Cyber Security aim to provide their clients with a secure and resilient cloud environment.
+> ＯＵＲ　ＣＯＭＰＡＮＹ：
 
-> ＯＵＲ　ＳＣＥＮＡＲＩＯ：Cyber Fortress Technologies has been contracted to improve the cybersecurity processes and systems for a client company, focusing on logging, monitoring and detection of adversarial activity on cloud infrastructure. Our client has requested a demonstration of how we'll be able to protect their cloud infrastructure.
+> ＯＵＲ　ＳＣＥＮＡＲＩＯ：
 
-> ＯＵＲ　ＳＯＬＵＴＩＯＮ: Cyber Fortress Technologies has developed a comprehensive solution to address the cybersecurity needs of the client company's cloud infrastructure. Our approach begins by implementing IAM accounts following AWS best practices. To establish a secure network architecture, Cyber Fortress has deployed a Virtual Private Cloud (VPC) and divided it into private and public subnets, effectively isolating critical resources from potential threats on the public internet.
+> ＯＵＲ　ＳＯＬＵＴＩＯＮ:
 
 <img src="https://media0.giphy.com/media/OrDMyHY3lmvPLxBcMs/giphy.gif"/>
 
