@@ -67,7 +67,7 @@ Marine veteran located in Florida. Has a B.A. in computer science with previous 
 [![Button](https://img.shields.io/badge/Presentation%20Video%20Recording-1338BE?style=for-the-badge)](https://github.com/Cyber-Fortress-Technologies/SOPs)
 
 ## Topology and other images <img width="50" src="https://media2.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif"/>
-<img width="500" src="https://github.com/cyber-smurfs/Documents/blob/main/401%20final%20-%20Cyber%20Smurfs%20topology.jpg"/>
+<img width="200" src="https://github.com/cyber-smurfs/Documents/blob/main/401%20final%20-%20Cyber%20Smurfs%20topology.jpg"/>
 
 
 
