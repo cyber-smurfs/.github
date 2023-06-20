@@ -6,21 +6,16 @@
 
 
 
-
-# Description of our project :fire:
+# Description of our project <img width="100" src="https://media4.giphy.com/media/2i7jspnRBYgg6v4Oki/giphy.gif">
 > ＯＵＲ　ＣＯＭＰＡＮＹ：
 
 > ＯＵＲ　ＳＣＥＮＡＲＩＯ：
 
 > ＯＵＲ　ＳＯＬＵＴＩＯＮ:
 
-<img src="https://media0.giphy.com/media/OrDMyHY3lmvPLxBcMs/giphy.gif"/>
 
 
-
-<img src="https://media4.giphy.com/media/2i7jspnRBYgg6v4Oki/giphy.gif"/>
-
-# The team :triangular_flag_on_post:
+# The team <img img width="150" src="https://media0.giphy.com/media/OrDMyHY3lmvPLxBcMs/giphy.gif"/>
 <details>
     <summary><b> About NAME :zap: </b></summary><br/>
   <tbody>
@@ -109,8 +104,8 @@ Marine veteran located in Florida. Has a B.A. in computer science with previous 
 [![Trello Board](https://img.shields.io/badge/Our%20Trello%20Board-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/b/x76ADRAC/project-management)
 
 # Repos :bulb:
-[![badge](https://img.shields.io/badge/Documentations%20Repo-7d0404?style=for-the-badge)](https://github.com/Cyber-Fortress-Technologies/Project-Docs)
-[![Button](https://img.shields.io/badge/Standard%20Procedures%20Repo-7d0404?style=for-the-badge)](https://github.com/Cyber-Fortress-Technologies/SOPs)
+[![badge](https://img.shields.io/badge/Documentations%20Repo-1338BE?style=for-the-badge)](https://github.com/Cyber-Fortress-Technologies/Project-Docs)
+[![Button](https://img.shields.io/badge/Standard%20Procedures%20Repo-1338BE?style=for-the-badge)](https://github.com/Cyber-Fortress-Technologies/SOPs)
 
 # Slideshow presentation :clapper: and presentation video :sound:
 - [Slide show]()
