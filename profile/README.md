@@ -3,10 +3,11 @@
 
 
 
+<img src="https://media0.giphy.com/media/OrDMyHY3lmvPLxBcMs/giphy.gif"/>
 
 
 
-
+<img src="https://media4.giphy.com/media/2i7jspnRBYgg6v4Oki/giphy.gif"/>
 
 # The team :triangular_flag_on_post:
 <details>
@@ -106,7 +107,6 @@ Marine veteran located in Florida. Has a B.A. in computer science with previous 
 
 # Topology and other images :bookmark_tabs:
 ![Topology]()
-
 
 
 
