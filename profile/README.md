@@ -57,8 +57,8 @@ As a veteran based in the beautiful city of Pensacola, FL, I have found my passi
 [![Trello Board](https://img.shields.io/badge/Our%20Trello%20Board-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/b/W15QbhDJ/cyber-smurf-project-management)
 
 ## Repos 📄
-[![badge](https://img.shields.io/badge/Documentations%20Repo-1338BE?style=for-the-badge)](https://github.com/Cyber-Fortress-Technologies/Project-Docs)
-[![Button](https://img.shields.io/badge/Standard%20Procedures%20Repo-1338BE?style=for-the-badge)](https://github.com/Cyber-Fortress-Technologies/SOPs)
+[![badge](https://img.shields.io/badge/Documentation%20Repo-1338BE?style=for-the-badge)](https://github.com/cyber-smurfs/Documents)
+[![Button](https://img.shields.io/badge/Script%20Repo-1338BE?style=for-the-badge)](https://github.com/cyber-smurfs/Scripts)
 
 ## Slideshow presentation and presentation video <img width="50" src="https://media0.giphy.com/media/NSooDzvyow8sO7za0c/giphy.gif"/>
 [![badge](https://img.shields.io/badge/Slideshow%20Presentation-1338BE?style=for-the-badge)](https://github.com/Cyber-Fortress-Technologies/Project-Docs)
