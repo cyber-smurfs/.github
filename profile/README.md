@@ -61,8 +61,8 @@ As a veteran based in the beautiful city of Pensacola, FL, I have found my passi
 [![Button](https://img.shields.io/badge/Script%20Repo-1338BE?style=for-the-badge)](https://github.com/cyber-smurfs/Scripts)
 
 ## Slideshow presentation and presentation video <img width="50" src="https://media0.giphy.com/media/NSooDzvyow8sO7za0c/giphy.gif"/>
-[![badge](https://img.shields.io/badge/Slideshow%20Presentation-1338BE?style=for-the-badge)](https://github.com/Cyber-Fortress-Technologies/Project-Docs)
-[![Button](https://img.shields.io/badge/Presentation%20Video%20Recording-1338BE?style=for-the-badge)](https://github.com/Cyber-Fortress-Technologies/SOPs)
+[![badge](https://img.shields.io/badge/Slideshow%20Presentation-1338BE?style=for-the-badge)](https://github.com/cyber-smurfs/Documents/blob/main/401%20Final%20slide%20deck%20-%20Cyber%20Smurfs.pdf)
+[![Button](https://img.shields.io/badge/Presentation%20Video%20Recording-1338BE?style=for-the-badge)](http://404)
 
 ## Topology and other images <img width="50" src="https://media2.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif"/>
 <img width="400" src="https://github.com/cyber-smurfs/Documents/blob/main/401%20final%20-%20Cyber%20Smurfs%20topology.jpg"/>
