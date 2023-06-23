@@ -1,54 +1,52 @@
 ![banner](https://github.com/cyber-smurfs/.github/blob/main/profile/banner_CM.png)
 
 # Description of our project <img width="80" src="https://media0.giphy.com/media/RDZo7znAdn2u7sAcWH/giphy.gif">
-> ＯＵＲ　ＣＯＭＰＡＮＹ：
+> ＯＵＲ　ＳＣＥＮＡＲＩＯ：In an effort to fortify their cyber defenses, a financial asset management company is actively seeking an adversary simulation exercise to identify and expose weak spots in their security infrastructure. Having already experienced a security breach resulting from misconfiguration, the company is determined to locate and promptly address any existing vulnerabilities, ensuring their systems are robust and resilient against potential cyber threats.
 
-> ＯＵＲ　ＳＣＥＮＡＲＩＯ：
-
-> ＯＵＲ　ＳＯＬＵＴＩＯＮ:
+> ＯＵＲ　ＳＯＬＵＴＩＯＮ: To streamline and enhance their security operations, Cyber Smurf plans to consolidate all logs on a dedicated Splunk server, enabling centralized log management and analysis. Cyber Smurf aims to closely monitor network activity by leveraging SPL queries, allowing them to extract valuable insights and detect any anomalous behavior. To proactively identify potential threats, the company intends to generate alerts for suspicious activity, ensuring timely response and mitigation. Furthermore, Cyber Smurf plans to automate the detection process by utilizing intrusion detection systems (IDS) and custom scripts, augmenting their capabilities and reducing manual effort. Finally, to maintain transparency and provide comprehensive documentation, Cyber Smurf will diligently report all their findings to the customer, ensuring a clear understanding of the security posture and any remediation actions that may be required.
 
 
 # The team <img img width="100" src="https://media0.giphy.com/media/OrDMyHY3lmvPLxBcMs/giphy.gif"/>
 <details>
-    <summary><b> About NAME <a href="https://github.com">
+    <summary><b> About Nickolaus Alderete <a href="https://github.com/Nkalderete">
             <img height="30" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
-            </a>  <a href="https://www.linkedin.com/">
+            </a>  <a href="https://www.linkedin.com/in/nickolaus-alderete/">
             <img height="30" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
             </a> </b></summary><br/>
 TEXT. TEXT. TEXT. 
 </details>
 
 <details>
-    <summary><b> About Rob <a href="https://github.com">
+    <summary><b> About Robert Gregor <a href="https://github.com/RobG-11">
             <img height="30" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
-            </a>  <a href="https://www.linkedin.com/">
+            </a>  <a href="https://www.linkedin.com/in/robertgregor11/">
             <img height="30" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
             </a> </b></summary><br/>
 Previously employed as a DTRA DoD Red Team Liaison. Chose cybersecurity to challenge myself. Pursuing a SOC Analyst position.
 </details>
 
 <details>
-    <summary><b> About NAME <a href="https://github.com">
+    <summary><b> About Jeremy Patton <a href="https://github.com/JeremyP1017">
             <img height="30" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
-            </a>  <a href="https://www.linkedin.com/">
+            </a>  <a href="https://www.linkedin.com/in/jeremy-patton-028300260/">
             <img height="30" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
             </a> </b></summary><br/>
 TEXT. TEXT. TEXT. 
 </details>
 
 <details>
-    <summary><b> About NAME <a href="https://github.com">
+    <summary><b> About Paul Stroud <a href="https://github.com/paulstroud2023">
             <img height="30" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
-            </a>  <a href="https://www.linkedin.com/">
+            </a>  <a href="https://www.linkedin.com/in/paulstroud312/">
             <img height="30" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
             </a> </b></summary><br/>
 TEXT. TEXT. TEXT. 
 </details>
 
 <details>
-    <summary><b> About Connie <a href="https://github.com">
+    <summary><b> About Connie Uribe Chavez <a href="https://github.com/connieuribe">
             <img height="30" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
-            </a>  <a href="https://www.linkedin.com/">
+            </a>  <a href="https://www.linkedin.com/in/connieuribe/">
             <img height="30" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
             </a> </b></summary><br/>
 Marine veteran located in Florida. Has a B.A. in computer science with previous programming experience. Enjoys being outdoors and likes to garden. 
