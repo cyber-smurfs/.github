@@ -13,7 +13,7 @@
             </a>  <a href="https://www.linkedin.com/in/nickolaus-alderete/">
             <img height="30" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
             </a> </b></summary><br/>
-TEXT. TEXT. TEXT. 
+As a US Army veteran and 12T- TOPO/Geodetic engineer, I bring a wealth of experience and expertise to the table. My background includes not only surveying and geospatial data analysis, but also proficiency as a low voltage electrician. I am well-versed in handling intricate wiring and installations for data and security systems, ensuring seamless integration and functionality. With a specialization in CCTV systems, I am skilled in both their installation and programming, ensuring optimal performance and precise monitoring capabilities. Additionally, I have the ability to design and construct efficient network rooms, providing a solid foundation for robust network infrastructures. My diverse skill set and experiences make me a valuable asset capable of delivering exceptional technical solutions across multiple domains.
 </details>
 
 <details>
@@ -22,7 +22,7 @@ TEXT. TEXT. TEXT.
             </a>  <a href="https://www.linkedin.com/in/robertgregor11/">
             <img height="30" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
             </a> </b></summary><br/>
-Previously employed as a DTRA DoD Red Team Liaison. Chose cybersecurity to challenge myself. Pursuing a SOC Analyst position.
+As a US Army Veteran with a TS/SCI clearance, I bring a strong background in cybersecurity to the table. I have had the privilege of being part of a DoD Red Team, where I honed my skills in offensive security tactics and techniques. Furthermore, I have earned an Undergraduate Certificate in Applied Cybersecurity from SANS, which has provided me with comprehensive knowledge and practical experience in various cybersecurity domains. I hold certifications in GFACT, GSEC, GCIH, and GPEN, which demonstrate my expertise in areas such as digital forensics, incident response, penetration testing, and network security. Currently, I am actively pursuing a defensive cyber security position, leveraging my diverse skill set and experiences to protect and safeguard critical assets from evolving cyber threats.
 </details>
 
 <details>
@@ -31,7 +31,7 @@ Previously employed as a DTRA DoD Red Team Liaison. Chose cybersecurity to chall
             </a>  <a href="https://www.linkedin.com/in/jeremy-patton-028300260/">
             <img height="30" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
             </a> </b></summary><br/>
-TEXT. TEXT. TEXT. 
+With 14 years of mechanical experience under my belt, I have witnessed the evolution of technology and its impact on various industries. Recognizing the high demand for cybersecurity professionals in today's digital landscape, I am eager to transition my skills and embark on a new and exciting career path. What excites me most about entering the cybersecurity field is the long-term job security it offers. As technology continues to advance, the need for skilled cybersecurity experts will only grow, providing stability and a sense of assurance for the future. Additionally, the field of cybersecurity presents ample opportunities for growth and professional development. With continuous learning and staying updated on emerging trends and threats, I am confident in my ability to thrive and excel in this dynamic and ever-evolving field. 
 </details>
 
 <details>
@@ -40,7 +40,7 @@ TEXT. TEXT. TEXT.
             </a>  <a href="https://www.linkedin.com/in/paulstroud312/">
             <img height="30" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
             </a> </b></summary><br/>
-TEXT. TEXT. TEXT. 
+As a former U.S. Army officer, I bring a disciplined and strategic mindset to the realm of cybersecurity. Equipped with an associate's degree in Cybersecurity, I have acquired a solid foundation in the principles and practices of securing digital systems and data. With previous work experience in the IT/Telecom industry, I have gained practical knowledge and hands-on skills in managing and troubleshooting various technology infrastructure components. However, it's not just technical expertise that sets me apart. I also possess a hidden talent for creating splendid memes that can lighten the mood and foster camaraderie within the team. This unique blend of military background, cybersecurity education, IT experience, and a knack for humor allows me to approach challenges with a well-rounded perspective and inject a bit of levity when needed.
 </details>
 
 <details>
@@ -49,7 +49,7 @@ TEXT. TEXT. TEXT.
             </a>  <a href="https://www.linkedin.com/in/connieuribe/">
             <img height="30" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
             </a> </b></summary><br/>
-Marine veteran located in Florida. Has a B.A. in computer science with previous programming experience. Enjoys being outdoors and likes to garden. 
+As a veteran based in the beautiful city of Pensacola, FL, I have found my passion for technology, specifically in the cybersecurity field. With a B.A. in computer science, I have developed a strong foundation in programming and software development. My recent work with Code Fellows has allowed me to work on diverse projects, refining my problem-solving skills and attention to detail. I seek opportunities that allow me to leverage my computer science background.
 </details>
 
 
