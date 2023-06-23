@@ -56,7 +56,7 @@ Marine veteran located in Florida. Has a B.A. in computer science with previous 
 
 
 ## PM tools used <img width="50" src="https://media4.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif"/>
-[![Trello Board](https://img.shields.io/badge/Our%20Trello%20Board-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/b/x76ADRAC/project-management)
+[![Trello Board](https://img.shields.io/badge/Our%20Trello%20Board-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/b/W15QbhDJ/cyber-smurf-project-management)
 
 ## Repos 📄
 [![badge](https://img.shields.io/badge/Documentations%20Repo-1338BE?style=for-the-badge)](https://github.com/Cyber-Fortress-Technologies/Project-Docs)
